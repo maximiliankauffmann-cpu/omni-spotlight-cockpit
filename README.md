@@ -22,7 +22,7 @@ Zwei Geschäftslinien werden langfristig unterstützt: DOOH-Spot-Kampagnen (Prod
 
 ## Session-Start
 
-1. In den Projektordner wechseln: `cd ~/Projects/omni-spotlight-cockpit`
+1. In den Projektordner wechseln: `cd ~/Desktop/omni-spotlight-cockpit`
 2. Claude startet automatisch und liest `CLAUDE.md`
 3. Erste Frage an Claude: *"Lies PROJECT_STATE.md und sag mir wo wir stehen."*
 

@@ -2,17 +2,19 @@
 
 > Diese Datei wird **am Ende jeder Session** aktualisiert. Sie ist der Anker für die nächste Session.
 
-**Letztes Update:** 2026-05-23
+**Letztes Update:** 2026-05-24
 
 ---
 
 ## Aktueller Stand (Zusammenfassung)
 
-Projekt-Workspace ist eingerichtet. Kunde Omni Spotlight ist gewonnen. Wir konzentrieren uns auf den Bau von **Agent 1 (Anonymisierung & Ranking)** und **Agent 3 (Stellenprofil & Filter)** — beide aus Produkt B. Beide Agenten sind in **Phase 0 — Discovery**: wir warten auf Daten und Inputs vom Kunden.
+Projekt-Workspace ist eingerichtet und liegt jetzt auf dem Schreibtisch unter `~/Desktop/omni-spotlight-cockpit/`. Kunde Omni Spotlight ist gewonnen. Wir konzentrieren uns auf den Bau von **Agent 1 (Anonymisierung & Ranking)** und **Agent 3 (Stellenprofil & Filter)** — beide aus Produkt B. Beide Agenten sind in **Phase 0 — Discovery**: wir warten auf Daten und Inputs vom Kunden.
 
 ## Letzte Aktion
 
-**2026-05-23:** Workspace `~/Projects/omni-spotlight-cockpit/` angelegt mit vollständiger Folder-Struktur, Status-Dateien (`README`, `CLAUDE`, `PROJECT_STATE`, `DECISIONS`, `OPEN_QUESTIONS`), Initial-Git-Commit, **Push auf GitHub (privates Repo: maximiliankauffmann-cpu/omni-spotlight-cockpit)**. claude-mem installiert und als LaunchAgent dauerhaft laufend. **Setup-Phase abgeschlossen.**
+**2026-05-24:** Workspace von `~/Projects/omni-spotlight-cockpit/` auf `~/Desktop/omni-spotlight-cockpit/` verschoben für bessere Zugänglichkeit. README-Pfad-Referenz angepasst, Git-Remote und -Historie unverändert.
+
+**2026-05-23:** Workspace ursprünglich unter `~/Projects/omni-spotlight-cockpit/` angelegt mit vollständiger Folder-Struktur, Status-Dateien (`README`, `CLAUDE`, `PROJECT_STATE`, `DECISIONS`, `OPEN_QUESTIONS`), Initial-Git-Commit, **Push auf GitHub (privates Repo: maximiliankauffmann-cpu/omni-spotlight-cockpit)**. claude-mem installiert und als LaunchAgent dauerhaft laufend. **Setup-Phase abgeschlossen.**
 
 ## Nächste konkrete Aktion
 

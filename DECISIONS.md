@@ -5,6 +5,16 @@ Neueste Einträge oben.
 
 ---
 
+## 2026-05-24 — Workspace auf den Schreibtisch verschoben
+
+**Entscheidung:** Projekt-Workspace von `~/Projects/omni-spotlight-cockpit/` nach `~/Desktop/omni-spotlight-cockpit/` verschoben. Git-Historie und GitHub-Remote bleiben unverändert.
+
+**Begründung:** Bessere Zugänglichkeit im Alltag — der User hat den Schreibtisch ohnehin geöffnet und greift schneller darauf zu. Der ursprüngliche Grund für `~/Projects/` (saubere Trennung vom unstrukturierten alten Desktop-Ordner) gilt weiter, weil der neue Workspace einen eigenen, eindeutigen Namen hat und nicht in Konflikt mit dem alten Archiv-Ordner steht.
+
+**Verworfen:** Im `~/Projects/`-Pfad belassen (weniger zugänglich); Symlink zum Desktop legen (zusätzliche Komplexität ohne klaren Vorteil).
+
+---
+
 ## 2026-05-23 — Multi-Session-Projektstruktur eingeführt
 
 **Entscheidung:** Eigener Workspace unter `~/Projects/omni-spotlight-cockpit/` mit Status-Dateien (PROJECT_STATE, DECISIONS, OPEN_QUESTIONS, CLAUDE.md), per-Agent-Ordnern und Session-Logs. Lokales Git + privates GitHub-Repo.
