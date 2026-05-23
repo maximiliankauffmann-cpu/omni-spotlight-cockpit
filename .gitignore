@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Excel/Office lock files
+~$*.xlsx
+~$*.docx
+*.tmp
+
+# Node / future code
+node_modules/
+.next/
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Sensitive customer data (uncomment when actual data lands and DSGVO is checked)
+# customer-data/**/*-real-*
+
+# Eval outputs with PII
+agents/*/eval/runs/
