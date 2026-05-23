@@ -12,7 +12,7 @@ Projekt-Workspace ist eingerichtet. Kunde Omni Spotlight ist gewonnen. Wir konze
 
 ## Letzte Aktion
 
-**2026-05-23:** Workspace `~/Projects/omni-spotlight-cockpit/` angelegt mit vollständiger Folder-Struktur, Status-Dateien (`README`, `CLAUDE`, `PROJECT_STATE`, `DECISIONS`, `OPEN_QUESTIONS`), Initial-Git-Commit. claude-mem installiert und als LaunchAgent dauerhaft laufend.
+**2026-05-23:** Workspace `~/Projects/omni-spotlight-cockpit/` angelegt mit vollständiger Folder-Struktur, Status-Dateien (`README`, `CLAUDE`, `PROJECT_STATE`, `DECISIONS`, `OPEN_QUESTIONS`), Initial-Git-Commit, **Push auf GitHub (privates Repo: maximiliankauffmann-cpu/omni-spotlight-cockpit)**. claude-mem installiert und als LaunchAgent dauerhaft laufend. **Setup-Phase abgeschlossen.**
 
 ## Nächste konkrete Aktion
 
